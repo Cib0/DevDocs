@@ -1,3 +1,5 @@
 site_name: 开发文档
 
 
+theme:
+  name: material
